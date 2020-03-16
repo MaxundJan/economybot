@@ -2,7 +2,7 @@ const Discord = require('discord.js')
 const client = new Discord.Client()
 const config = require('./config.json')
 
-Worker: node economy.js
+Worker: node; economy.js
 
 let prefix = config.prefix;
 client.on('message', message => {
