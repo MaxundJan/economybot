@@ -30,4 +30,4 @@ client.on('ready', () => {
 })
 
 
-client.login("wLkXMClcpi3MIA3TL4HQi0GetVY_0JJy")
+client.login("Njg4NTA2MjI0OTM2NzQ3MDYz.XnF0ZA.0_nJKLq2ISWaSb0pFh-izEgUTVk")
